@@ -26,7 +26,6 @@ if Rapadura <= 6:
 else:
   print()
 
-
 print("Quantos produtos eu preciso vender para atingir R$100 reais de cada item? ")
 
 print("Para juntar R$100 em Brigadeiro, você precisa vender", int (100 / Brigadeiro), "unidades")
